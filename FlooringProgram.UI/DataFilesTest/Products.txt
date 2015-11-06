@@ -1,0 +1,4 @@
+﻿ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+rock,5.00,2.50
+cement,6.00,3.00
+marble,10,00,7.00

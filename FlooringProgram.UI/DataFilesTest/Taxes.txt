@@ -1,0 +1,4 @@
+﻿StateAbbreviation,StateName,TaxRate
+CA,California,7.25
+IL,Illinois,8.00
+TN,Tennessee,10.00
